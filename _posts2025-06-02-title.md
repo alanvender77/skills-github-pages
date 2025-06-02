@@ -1,5 +1,5 @@
 ---
-title: "TITLE"
+title: "test"
 date: 2025-06-02
 ---
 
